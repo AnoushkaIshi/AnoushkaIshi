@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me LinkedInd: anoushkaishi
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love web developement
+
 
 <!---
 AnoushkaIshi/AnoushkaIshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
