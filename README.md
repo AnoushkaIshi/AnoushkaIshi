@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
 
-Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **8.3/10**, active leadership, prestigious scholarships, and global hackathon achievements.
+Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **8.34/10**, active leadership, prestigious scholarships, and global hackathon achievements.
 
 - 🎓 B.Tech in Information Technology (2022–2026)
 - 💼 Former Intern at **Thales Group**, worked on synthetic biometric fingerprint generation using GANs
