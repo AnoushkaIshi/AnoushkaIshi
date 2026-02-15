@@ -10,7 +10,7 @@ Information Technology student at **Amity University**, passionate about buildin
 - 🏆 Finalist at **Smart India Hackathon 2024** (Top 1%)
 - 👑 Advanced AI & ML Scholar from AWS – selected among top 500 globally
 - 📚 Certifications: NVIDIA DLI, Cisco CCNA, Google Cybersecurity
-- 🌐 Clubs: Vice President @ WebCraft & Androcoders | Former Junior Manager @ AIESEC
+- 🌐 Clubs:  President @ WebCraft & Androcoders | Former Junior Manager @ AIESEC
 - 💬 Soft Skills: Team Collaboration, Communication, Problem Solving, Time Management
 
 <h3>💬 Let's connect and build something amazing together!</h3>
