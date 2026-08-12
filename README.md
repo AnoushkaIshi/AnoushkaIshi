@@ -87,16 +87,10 @@ Information Technology student at **Amity University**, passionate about buildin
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnoushkaIshi&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnoushkaIshi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaIshi&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnoushkaIshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AnoushkaIshi&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🎯 Certifications
+- **Associate Cloud Solution Architect** – Arcigtec
+- AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
+- NVIDIA Deep Learning Institute (98% score)
+- Oxford Machine Learning School (OxML) – Selected Participant
+- McKinney Forward Program Scholar | PwC Launchpad – Top 300 nationwide
+- UNICEF Environment Warrior Scholar | Google Career Certificates Scholar
