@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
 
-Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **3.68/4.0**, active leadership, prestigious scholarships, and global hackathon achievements.
+B. Tech. Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **3.68/4.0**, active leadership, prestigious scholarships, and global hackathon achievements.
 
 ### 🎓 Education
 - **Johns Hopkins University** – M.S. in Global Innovation and Leadership (Fall 2026) | *WSE Master's Excellence Fellowship Recipient*
