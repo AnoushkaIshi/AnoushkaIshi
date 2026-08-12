@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
 
-B. Tech. Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **3.68/4.0**, active leadership, prestigious scholarships, and global hackathon achievements.
+Bachelor of Technology in Information Technology student at **Amity University**, passionate about building impactful AI solutions. My academic journey is marked by a strong CGPA of **3.68/4.0**, active leadership, prestigious scholarships, and global hackathon achievements.
 
 ### 🎓 Education
 - **Johns Hopkins University** – M.S. in Global Innovation and Leadership (Fall 2026) | *WSE Master's Excellence Fellowship Recipient*
@@ -88,7 +88,7 @@ B. Tech. Information Technology student at **Amity University**, passionate abou
 </div>
 
 ### 🎯 Certifications
-- **Associate Cloud Solution Architect** – 
+- **Associate Cloud Solution Architect** 
 - AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
 - NVIDIA Deep Learning Institute (98% score)
 - Oxford Machine Learning School (OxML) – Selected Participant
