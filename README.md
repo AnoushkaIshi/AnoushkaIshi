@@ -88,7 +88,7 @@ Information Technology student at **Amity University**, passionate about buildin
 </div>
 
 ### 🎯 Certifications
-- **Associate Cloud Solution Architect** – Arcigtec
+- **Associate Cloud Solution Architect** – 
 - AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
 - NVIDIA Deep Learning Institute (98% score)
 - Oxford Machine Learning School (OxML) – Selected Participant
